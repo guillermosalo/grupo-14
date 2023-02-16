@@ -12,4 +12,4 @@ public class Grupo14Application {
 
 }
 
-//Ojo, log4j.properties, line 22 cargar db sql correctamente y borrar h2
+
